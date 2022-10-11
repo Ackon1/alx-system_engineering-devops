@@ -1,3 +1,3 @@
-Task 0, where am i ?
+#!/bin/bash
 0x00 shell basics
 
